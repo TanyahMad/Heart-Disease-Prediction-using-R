@@ -4,7 +4,7 @@ This project is an interactive R Shiny application that predicts the probability
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Clean 3-column input layout
 - Medical + lifestyle attributes
