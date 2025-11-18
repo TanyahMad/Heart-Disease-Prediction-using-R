@@ -1,7 +1,3 @@
-############################################################
-# heart_analysis.R  -  Heart Disease ML Models + EDA
-############################################################
-
 library(tidyverse)
 library(corrplot)
 library(e1071)
@@ -29,7 +25,6 @@ str(heartData)
 summary(heartData)
 table(heartData$Heart_Disease)
 
-# 2. Simple EDA --------------------------------------------
 # 2. Exploratory Data Analysis (Visualization) -------------
 
 # helper to force display
