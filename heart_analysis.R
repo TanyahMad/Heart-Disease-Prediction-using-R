@@ -1,7 +1,3 @@
-############################################################
-# heart_analysis.R  -  Heart Disease ML Models + EDA
-############################################################
-
 library(tidyverse)
 library(corrplot)
 library(e1071)
